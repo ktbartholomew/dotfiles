@@ -1,0 +1,24 @@
+{
+  "editor.fontFamily": "Source Code Pro, Menlo",
+  "editor.fontLigatures": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "workbench.colorTheme": "Solarized Dark",
+  "workbench.colorCustomizations": {
+    "editor.foreground": "#839496",
+    "editorCursor.foreground": "#eee"
+  },
+  "workbench.iconTheme": "vs-minimal",
+  "editor.fontSize": 15,
+  "editor.tabSize": 2,
+  "editor.rulers": [80],
+  "editor.renderWhitespace": "boundary",
+  "files.trimTrailingWhitespace": true,
+  "editor.minimap.enabled": false,
+  "explorer.openEditors.visible": 0,
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true,
+  "prettier.bracketSpacing": false,
+  "prettier.jsxBracketSameLine": true,
+  "workbench.activityBar.visible": false,
+  "window.zoomLevel": 0
+}
